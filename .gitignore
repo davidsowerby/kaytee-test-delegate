@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/kaytee-test-delegate.ipr
+/kaytee-test-delegate.iws
+/kaytee-test-delegate.iml
+build/*
+out
+.idea
+.gradle
