@@ -3,6 +3,7 @@ buildscript {
     ext.kaytee_plugin_version = "0.15.3.0"
 
     repositories {
+        mavenLocal()
         jcenter()
         mavenCentral()
     }
@@ -25,6 +26,7 @@ kaytee {
 
 
 repositories {
+    mavenLocal()
     jcenter()
     mavenCentral()
 }
